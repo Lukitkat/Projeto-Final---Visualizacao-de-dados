@@ -1,0 +1,14 @@
+[
+  {
+    "Label":"Acelerou o Término",
+    "Frequency":149
+  },
+  {
+    "Label":"Atrasou o Término",
+    "Frequency":27
+  },
+  {
+    "Label":"Sem Efeito no Tempo",
+    "Frequency":155
+  }
+]

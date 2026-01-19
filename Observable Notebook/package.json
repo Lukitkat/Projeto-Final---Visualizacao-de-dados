@@ -1,0 +1,14 @@
+{
+  "name": "b4dfe7fe06dcb992",
+  "main": "b4dfe7fe06dcb992@173.js",
+  "version": "173.0.0",
+  "homepage": "https://observablehq.com/d/b4dfe7fe06dcb992",
+  "author": {
+    "name": "Lucas Rocha",
+    "url": "https://observablehq.com/@lucas-rocha"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

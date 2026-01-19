@@ -1,0 +1,74 @@
+[
+  {
+    "period":1.0,
+    "period_desc":"Multipolarity (1918-1939)",
+    "activity_type":"Militar (Direta\/Encoberta)",
+    "Quantidade":1
+  },
+  {
+    "period":1.0,
+    "period_desc":"Multipolarity (1918-1939)",
+    "activity_type":"Política\/Econômica",
+    "Quantidade":30
+  },
+  {
+    "period":2.0,
+    "period_desc":"World War II (1939-1945)",
+    "activity_type":"Militar (Direta\/Encoberta)",
+    "Quantidade":12
+  },
+  {
+    "period":2.0,
+    "period_desc":"World War II (1939-1945)",
+    "activity_type":"Política\/Econômica",
+    "Quantidade":15
+  },
+  {
+    "period":3.0,
+    "period_desc":"Bipolarity (1945-1962)",
+    "activity_type":"Militar (Direta\/Encoberta)",
+    "Quantidade":75
+  },
+  {
+    "period":3.0,
+    "period_desc":"Bipolarity (1945-1962)",
+    "activity_type":"Política\/Econômica",
+    "Quantidade":15
+  },
+  {
+    "period":4.0,
+    "period_desc":"Polycentrism (1963-1989)",
+    "activity_type":"Militar (Direta\/Encoberta)",
+    "Quantidade":184
+  },
+  {
+    "period":4.0,
+    "period_desc":"Polycentrism (1963-1989)",
+    "activity_type":"Política\/Econômica",
+    "Quantidade":11
+  },
+  {
+    "period":5.0,
+    "period_desc":"Unipolarity (1990-)",
+    "activity_type":"Militar (Direta\/Encoberta)",
+    "Quantidade":64
+  },
+  {
+    "period":5.0,
+    "period_desc":"Unipolarity (1990-)",
+    "activity_type":"Política\/Econômica",
+    "Quantidade":7
+  },
+  {
+    "period":6.0,
+    "period_desc":"Period 6 (Undefined in v12)",
+    "activity_type":"Militar (Direta\/Encoberta)",
+    "Quantidade":18
+  },
+  {
+    "period":6.0,
+    "period_desc":"Period 6 (Undefined in v12)",
+    "activity_type":"Política\/Econômica",
+    "Quantidade":5
+  }
+]
