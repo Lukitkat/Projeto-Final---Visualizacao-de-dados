@@ -13,7 +13,7 @@ Para visualizar o projeto localmente, basta rodar um servidor HTTP na pasta raiz
    ```sh
    npx http-server -c-1
    ```
-3. Abra o navegador no endereço indicado (geralmente `http://localhost:8080`).
+3. Abra o navegador no endereço indicado (geralmente `http://26.128.228.246:8081`).
 
 ## Estrutura do Projeto
 
